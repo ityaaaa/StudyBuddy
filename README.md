@@ -18,3 +18,4 @@ Academic Focus: Maintains disciplined study sessions with a Pomodoro timer.
 Habit Tracking: Tracks weekly study time through the History feature.
 Stress Reduction: Break mode and animations promote rest and prevent burnout.
 Task Management: Current Task input keeps users focused on their goal.
+
